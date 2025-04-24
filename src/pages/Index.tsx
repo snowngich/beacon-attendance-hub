@@ -4,6 +4,7 @@ import Footer from "@/components/layout/Footer";
 import Hero from "@/components/sections/Hero";
 import HowItWorks from "@/components/sections/HowItWorks";
 import Features from "@/components/sections/Features";
+import BeaconAI from "@/components/sections/BeaconAI";
 import Testimonials from "@/components/sections/Testimonials";
 import Contact from "@/components/sections/Contact";
 
@@ -16,6 +17,7 @@ const Index = () => {
         <Hero />
         <HowItWorks />
         <Features />
+        <BeaconAI />
         <Testimonials />
         <Contact />
       </main>
